@@ -9,7 +9,7 @@ National Health and Safety Performance Standards
 
 App Name: Child Ready for Health and Safety
 
-App Description: An elavuation based on Nat'l Health & Safety Standards
+App Description: An evaluation based on Nat'l Health & Safety Standards
 
 Child Ready for Health and Safety app is designed and developed for childcare administrators, caregivers, and teachers to evaluate their programs according to 
 National Health and Safety Performance Standards of 1) Methods of Supervision; 2) Emergency Exits; and 3) Use of Medications. The Early Childcare Education community will have a better understanding of how facilities can improve their health and safety practices to better protect children from harm.
