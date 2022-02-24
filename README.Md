@@ -34,8 +34,24 @@ GigglesTool is an app designed and developed for out-of-home childcare facilitie
 5.1.4.4: Locks; and
 9.2.3.9: Written Policy on Use of Medications. 
 By using this app, the Early Childcare Education community will have a better understanding of how facilities can improve their health and safety practices to better protect children from harm.
+
+
 4. Complete User Stories
 5. Complete ERD
 6. Two Repo Links:
 	https://github.com/annettem123/GigglesTool-FEND
 	https://github.com/annettem123/GigglesTool-BEND
+7.  Project Description:
+This project is built on a monolithic back-end using Spring Boot and its modules.  I used PostreSQL to create my database and Tomcat to run my application.
+8. Technical Info:
+Persist 2 models (standards, activities) to a PostgreSQL database.
+Use Spring Profiles for environment settings.
+At least one API endpoint will perform full CRUD create, read, update, and delete actions
+Other API endpoints can perform CRUD based on the business use-case (service).
+Expose CRUD routes that were built using REST conventions.
+Handle exceptions gracefully.
+Send appropriate messages back to the client in the event that an exception occurs.
+Have Controller and Service separate.
+Document each end-point, such that
+
+Stick with KISS (keep it simple, stupid) and DRY (don’t repeat yourself) principles.
