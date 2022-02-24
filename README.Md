@@ -28,6 +28,7 @@ And more …
 
 2. App Name: GigglesTool
 3. App Description: A childcare assessment tool 
+
 GigglesTool is an app designed and developed for out-of-home childcare facilities (including center, Early Headstart, Head Start, Large Family Child Care Home, Small Family Child Care Home) to measure the quality of leadership and management practices regarding health and safety based upon the following National Health and Safety Performance Standards:
 2.2.0.1: Methods of Supervision of Children;
 5.1.4.4: Locks; and
