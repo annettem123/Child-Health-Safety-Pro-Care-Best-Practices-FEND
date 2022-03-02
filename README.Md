@@ -44,7 +44,7 @@ Gathering content including images took longer than expected.
 
 If I had more time, I would:
 
-attach Action Research Paper regarding references, etc., 
+add more content to pages including images, Action Research Paper regarding references, information referenced in Content Document, etc., 
 
 create a button and link to National Health & Safety Performance Standards website
 
